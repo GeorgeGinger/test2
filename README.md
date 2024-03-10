@@ -2,7 +2,7 @@
 
 Ucim se readme
 neco
-[**odkaz na seznam**](https://www.saunaklubslany.cz)  
+[**odkaz na saunu**](https://www.saunaklubslany.cz)  
 
 >- tak  
 > - to   
