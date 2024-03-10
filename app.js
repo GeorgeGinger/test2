@@ -1,9 +1,12 @@
+
 function loggedIn() {
 	return true;
 }
 
 function app() {
 	if(loggedIn) {
-		//redirect
-	}
+		//redirect home
+	}else {
+	//redirect to register
+}
 }
